@@ -11,4 +11,4 @@ backticks'''
 
 [We are snowflake-phobic](http://pngimg.com/upload/snowflakes_PNG7545.png)
 
-![Pairing snapshot](/Screen Shot 2015-11-16 at 8.01.30 PM.png)
+![Pairing snapshot](/screenshot.png)
