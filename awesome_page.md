@@ -14,3 +14,5 @@ backticks```
 [We are snowflake-phobic](http://pngimg.com/upload/snowflakes_PNG7545.png)
 
 ![Pairing snapshot](/screenshot.png)
+
+This is the last line of this file.
